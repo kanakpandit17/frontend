@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_option_answers_texts",
+  "info": {
+    "displayName": "Text",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "Answer_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Option_answer": {
+      "type": "string"
+    }
+  }
+}
